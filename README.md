@@ -4,7 +4,7 @@ ______________________________
 ______________________________
 🔴 $${\color{blue}A \space \color{darkred}CHATPL4Y \space \color{purple}product}$$ - made by ɌɨᵽŧɨđɇMȻ 🔴 ENJOY!
 _____________________________________________________________________________________________________________________________
-🔴Shoutout Link: "https://football.tehachapisportsmanclub.com/" (ONLY THE GAMES WORK, EVERYTHING ELSE DOESN'T 😞)🔴
+🔴Shoutout Link: "https://maddoxcloud.com/" (IDK if this works, but can have Roblox, Clash, TikTok, and other stuff. I am getting it to work!!! 😃)🔴
 _____________________________________________________________________________________________________________________________
 🔴ANOUNCEMENTS/REQUESTS: Hi Guys!🔴
 _____________________________________________________________________________________________________________________________
@@ -19,6 +19,8 @@ ________________________________________________________________________________
 For coding (Linux in-browser), type the link "https://www.onworks.net/runos/create-os.html?os=ubuntu-16.04.6-desktop-i386&home=init" in "https://privacywall.org" and click the first link. This link can run any application and even download games that Chromebooks cannot normally access.
 _____________________________________________________________________________________________________________________________
 This one runs Windows 10: "https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init". Please click the link and then follow all the prompts. This link can do the same things as the other link that leads to Linux in-browser.
+_______________________________________________________________________________
+WIP TESTING AND MORE: https://maddoxcloud.com/
 _______________________________________________________________________________
 For Eaglercraft hosting: try https://eagler.host.
 
