@@ -1,4 +1,4 @@
-# MathGoggle
+# GoggleMathGoogle
 ______________________________
 🔴RiptideMC🔴
 ______________________________
@@ -6,7 +6,7 @@ ______________________________
 _____________________________________________________________________________________________________________________________
 🔴Shoutout Link: "https://maddoxcloud.com/" (IDK if this works, but can have Roblox, Clash, TikTok, and other stuff. I am getting it to work!!! 😃)🔴
 _____________________________________________________________________________________________________________________________
-🔴ANOUNCEMENTS/REQUESTS: Hey A*den, why the weird requests? (You know who you are!!!) 🔴
+🔴ANOUNCEMENTS/REQUESTS: Srry for broken Gogglemath cuz Github did a stupid update. 🔴
 _____________________________________________________________________________________________________________________________
 🔴Please Like This Repo; I would really appreciate the gesture, and it would motivate me to work harder on other projects.🔴
 _____________________________________________________________________________________________________________________________
